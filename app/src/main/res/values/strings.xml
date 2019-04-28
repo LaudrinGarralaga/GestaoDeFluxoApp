@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gestão de Atividades</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_activity_reservar">Reservar horário</string>
+    <string name="titulo_activity_minhas_reservas">Minhas reservas</string>
+    <string name="titulo_activity_pesquisar">Pesquisar horários</string>
+    <string name="titulo_activity_reserva_detalhes">Detalhes da reserva</string>
+    <string name="atividades">Atividades</string>
+
+    <string-array name="permanente">
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+
+</resources>
